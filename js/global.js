@@ -4,7 +4,7 @@ Note: Please use our back link in your site
 */
 $( function() {
 // Add background image
-		$.backstretch('images/brians.jpg');
+		$.backstretch('images/Silus Happy BDay from Bikini Bottom.jpg');
 		
         var endDate = "Oct  10, 2021 23:59:59";
 
